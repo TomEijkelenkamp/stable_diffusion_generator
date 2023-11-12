@@ -1,3 +1,5 @@
+# https://huggingface.co/stabilityai
+
 import time
 from diffusers import DiffusionPipeline
 import torch
